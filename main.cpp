@@ -10,6 +10,10 @@
 #include "LoginDialog.h"
 #include "AdminPanel.h"
 #include "UserDashboard.h"
+#include "RegisterDialog.cpp"
+#include "LoginDialog.cpp"
+#include "AdminPanel.cpp"
+#include "UserDashboard.cpp"
 
 // Shared user data
 std::vector<User> users;

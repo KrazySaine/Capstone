@@ -31,6 +31,8 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         AdminPanel.cpp
         UserDashboard.h
         UserDashboard.cpp
+        RegisterDialog.ui
+        AdminPanel.ui
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET CapstoneBank_B APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
